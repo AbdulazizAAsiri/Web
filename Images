@@ -11,3 +11,6 @@ Vector images differ from bitmap images and are resolution-independent. Vector i
 
 
 Animated GIF: Animated GIFs show several frames of an image in sequence and therefore can be used to create simple animations.
+
+Rememeber: More frames can make larger size of the GIF image.
+
