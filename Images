@@ -6,3 +6,8 @@ Some facts:
 JPEG at 300 dpi = 1,526kb
 JPEG at 72 ppi = 368kb
 
+
+Vector images differ from bitmap images and
+are resolution-independent. Vector images are
+commonly created in programs such as Adobe
+Illustrator.
