@@ -1,0 +1,8 @@
+bitmaps vs vectors. 
+
+JPGs, GIFs, and PNGs belong to a type of image format known as bitmap.
+
+Some facts:
+JPEG at 300 dpi = 1,526kb
+JPEG at 72 ppi = 368kb
+
