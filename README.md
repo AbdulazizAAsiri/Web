@@ -12,3 +12,7 @@ first of all HTML components.
 8-Tables.
 9-Forms and widgets. 
 10-Extra Markup.
+
+
+
+What is the difference between class and id in CSS HTML ? 
