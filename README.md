@@ -16,3 +16,4 @@ first of all HTML components.
 
 
 What is the difference between class and id in CSS HTML ? 
+The answer: https://css-tricks.com/the-difference-between-id-and-class/
